@@ -1,0 +1,8 @@
+{
+  "name": "react-native-exposure-notifications",
+  "version": "0.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/expo/react-native-exposure-notifications.git",
+  "author": "Expo Team <team@expo.io>",
+  "license": "MIT"
+}
